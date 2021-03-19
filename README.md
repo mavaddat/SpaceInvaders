@@ -3,8 +3,6 @@ layout: default
 title: A Ship That Fires Bullets
 ---
 
-# A Ship That Fires Bullets
-
 [![GG Goode Game by @MatthewHenryDesign](gg-good-game-galaga-RtpmUzMbynBeCgEa5E.gif)](https://giphy.com/gifs/gg-good-game-galaga-RtpmUzMbynBeCgEa5E)
 
 Let’s build a game! We’ll use @Pygame, a collection of fun, powerful Python modules that manage graphics, animation, and even sound, making it easier for you to build sophisticated games. With Pygame handling tasks like drawing images to the screen, you can skip much of the tedious, difficult coding and focus on the higher-level logic of game dynamics.
@@ -31,17 +29,16 @@ Installing Pygame
 
 Pygame is usually straightforward to install, but it can get tricky depending on your operating system and the version of Python you have installed. These instructions can help you get Pygame installed quickly, so you can focus on building games.
 
-- [A Ship That Fires Bullets](#a-ship-that-fires-bullets)
-  - [Restore Points](#restore-points)
-  - [Installing Pygame](#installing-pygame)
-  - [Pygame on Linux](#pygame-on-linux)
-    - [Python 2.7](#python-27)
-    - [Python 3](#python-3)
-  - [<a href='pygame_osx'></a>Pygame on OS X](#pygame-on-os-x)
-  - [<a href='pygame_windows'></a>Pygame on Windows](#pygame-on-windows)
-  - [TRY IT YOURSELF \#1](#try-it-yourself-1)
-  - [TRY IT YOURSELF \#2](#try-it-yourself-2)
-  - [TRY IT YOURSELF \#3](#try-it-yourself-3)
+- [Restore Points](#restore-points)
+- [Installing Pygame](#installing-pygame)
+- [Pygame on Linux](#pygame-on-linux)
+  - [Python 2.7](#python-27)
+  - [Python 3](#python-3)
+- [<a href='pygame_osx'></a>Pygame on OS X](#pygame-on-os-x)
+- [<a href='pygame_windows'></a>Pygame on Windows](#pygame-on-windows)
+- [TRY IT YOURSELF \#1](#try-it-yourself-1)
+- [TRY IT YOURSELF \#2](#try-it-yourself-2)
+- [TRY IT YOURSELF \#3](#try-it-yourself-3)
 
 Pygame on Linux
 ---
@@ -168,4 +165,4 @@ bullets are deleted once they disappear off the screen.
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 ----|----|----|----
-<a href='../chapter_11/README.md'>&#10094; Prev</a>| &nbsp; | &nbsp; | &nbsp;<a href='../chapter_13/README.md'>Next &#10095;</a>
+<a href='https://github.com/mavaddat-javid-education/pcc/tree/master/chapter_11/README.md'>&#10094; Prev</a>| &nbsp; | &nbsp; | &nbsp;<a href='https://github.com/mavaddat-javid-education/pcc/tree/master/chapter_13/README.md'>Next &#10095;</a>
